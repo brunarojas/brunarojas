@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @brunarojas
+- 👀 I’m interested in ... Redação e conteúdo
+- 🌱 I’m currently learning ... PHP e .Net
+- 💞️ I’m looking to collaborate on ... Front End
+- 📫 How to reach me ... contato@brunarojas.com
